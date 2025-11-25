@@ -3,6 +3,8 @@
 ### 📄 About This Project
 This is an AI-powered Customer Support Chatbot built for the LiaPlus AI internship assignment. It simulates a support agent that can understand if a user is happy, frustrated, or neutral in real-time.
 
+Try it here- https://huggingface.co/spaces/deepshikhar23/LiaPlus-Support-Bot
+
 **The Goal:** To build a system that is fast enough for live chat but smart enough to generate detailed psychological reports for managers.
 
 ### ✨ Key Features
