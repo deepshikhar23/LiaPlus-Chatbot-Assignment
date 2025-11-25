@@ -23,7 +23,7 @@ Try it here- https://huggingface.co/spaces/deepshikhar23/LiaPlus-Support-Bot
 
 1.  **Clone the code**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/deepshikhar23/LiaPlus-Chatbot-Assignment
     cd LiaPlus-Chatbot-Assignment
     ```
 
